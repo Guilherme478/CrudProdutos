@@ -2,8 +2,21 @@
     font-size: 3rem;
     font-weight: 300;
     line-height: 1.2;
+    text-align: center;
+    
 }
 
 .home .subtitle {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 15pxm;
+    font-weight: 500;
+    line-height: 1.8;
 }
+ .logo {
+     text-align: center;
+     padding: 20px;
+     
+ }
+
+ 
