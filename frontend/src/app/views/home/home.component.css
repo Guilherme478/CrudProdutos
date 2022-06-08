@@ -15,8 +15,18 @@
 }
  .logo {
      text-align: center;
-     padding: 20px;
+     padding: 12px;
+     height: 170px;
      
  }
+
+ .tecnologias {
+     
+     text-align: left;
+     padding: 20px;
+     height: 170px;
+ }
+
+ 
 
  
